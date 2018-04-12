@@ -40,7 +40,7 @@ Thank `you`. Please `call` me `coder`.
 * 编辑使用的是星号
 
 Inline-style image
-![alt text](https://img1.dongqiudi.com/fastdfs2/M00/66/80/ChOqM1rOhe6AZOdyAARVLjMKtRg315.jpg "4/22/2018")
+![alt text](https://img1.dongqiudi.com/fastdfs2/M00/66/72/ChOqM1rOdiyATICwAAD_TsKr4qk367.jpg "4/22/2018")
 
 
 
