@@ -30,6 +30,22 @@ Learning Markdown on GitHub
 
     Hello, 大家好。这行前面有两个tab
 
-部分文字高亮：
+部分文字高亮 <br>
 Thank `you`. Please `call` me `coder`. 
+
+文字超链接 <br>
+[懂球帝](http://dongqiudi.com/)
+
+* 圆点号 <br>
+* 编辑使用的是星号
+
+Inline-style image
+![alt text](https://img1.dongqiudi.com/fastdfs2/M00/66/80/ChOqM1rOhe6AZOdyAARVLjMKtRg315.jpg "4/22/2018")
+
+
+
+
+
+
+
 
