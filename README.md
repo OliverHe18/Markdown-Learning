@@ -39,7 +39,7 @@ Thank `you`. Please `call` me `coder`.
 * 圆点号 <br>
 * 编辑使用的是星号
 
-Inline-style image
+Inline-style image <br>
 ![alt text](https://img1.dongqiudi.com/fastdfs2/M00/66/72/ChOqM1rOdiyATICwAAD_TsKr4qk367.jpg "4/22/2018")
 
 
